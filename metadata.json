@@ -1,0 +1,6 @@
+{
+  "name": "CutLine Studio",
+  "description": "Add unlimited YouTube links, trim exact segments, combine them into one seamless track, and download as MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
